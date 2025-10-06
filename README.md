@@ -6,9 +6,11 @@
 **Team Members:**  
 Sneha Roychowdhury, Dhruv Dawar, Shriya Sandilya, Vamika Mendiratta  
 
-**Deployed Application:** [https://cosmic-explorer-frontend.vercel.app/](https://cosmic-explorer-frontend.vercel.app/)  
+**Deployed Application:** [https://cosmic-explorer-frontend.vercel.app/](https://cosmic-explorer-frontend.vercel.app/) 
+**Demo Video:** [https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM](https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM) 
 **Backend Repository:** [https://github.com/dhruv-developer/Cosmic-Explorer](https://github.com/dhruv-developer/Cosmic-Explorer)  
 **Frontend Repository:** [https://github.com/dhruv-developer/Cosmic-Explorer-Frontend](https://github.com/dhruv-developer/Cosmic-Explorer-Frontend)
+
 
 ---
 
