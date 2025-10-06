@@ -6,11 +6,10 @@
 **Team Members:**  
 Sneha Roychowdhury, Dhruv Dawar, Shriya Sandilya, Vamika Mendiratta  
 
-**Deployed Application:** [https://cosmic-explorer-frontend.vercel.app/](https://cosmic-explorer-frontend.vercel.app/) 
-**Demo Video:** [https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM](https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM) 
+**Deployed Application:** [https://cosmic-explorer-frontend.vercel.app/](https://cosmic-explorer-frontend.vercel.app/)  
+**Demo Video:** [https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM](https://drive.google.com/drive/folders/14Bno6Dlkn1FPPRU_JfQVfNncWQxPqNfM)  
 **Backend Repository:** [https://github.com/dhruv-developer/Cosmic-Explorer](https://github.com/dhruv-developer/Cosmic-Explorer)  
 **Frontend Repository:** [https://github.com/dhruv-developer/Cosmic-Explorer-Frontend](https://github.com/dhruv-developer/Cosmic-Explorer-Frontend)
-
 
 ---
 
@@ -30,8 +29,8 @@ To make planetary image exploration intuitive, explainable, and accessible by en
 
 ### 1. Vision Module (BLIP)
 - Performs image captioning and semantic understanding
-- Input: Planetary images (RGB/multispectral)
-- Output: Descriptive summaries such as "A Mars surface image with a crater and ice patch"
+- **Input:** Planetary images (RGB/multispectral)
+- **Output:** Descriptive summaries such as "A Mars surface image with a crater and ice patch"
 
 ### 2. Metadata Module
 - Processes structured feature metadata: coordinates, radius, spectral bands, and detection confidence
@@ -62,19 +61,31 @@ To make planetary image exploration intuitive, explainable, and accessible by en
 
 ## Installation and Setup
 
-### Backend
+### Backend Setup
+
 ```bash
+# Clone the backend repository
 git clone https://github.com/dhruv-developer/Cosmic-Explorer.git
 cd Cosmic-Explorer
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the application
 python app.py
 ```
 
-### Frontend
+### Frontend Setup
+
 ```bash
+# Clone the frontend repository
 git clone https://github.com/dhruv-developer/Cosmic-Explorer-Frontend.git
 cd Cosmic-Explorer-Frontend
+
+# Install dependencies
 npm install
+
+# Run the development server
 npm run dev
 ```
 
@@ -109,3 +120,24 @@ npm run dev
 ## Creativity and Impact
 
 Cosmic Explorer redefines how we perceive and interact with planetary data. It transforms static imagery into an intelligent, conversational experience — where users can explore, interpret, and learn from vast spatial datasets. By merging visual AI and scientific reasoning, it empowers researchers, educators, and the public to uncover new insights about our universe, making space data more accessible and engaging.
+
+---
+
+## Team
+
+- **Sneha Roychowdhury**
+- **Dhruv Dawar**
+- **Shriya Sandilya**
+- **Vamika Mendiratta**
+
+---
+
+## License
+
+This project was developed for the NASA Space Apps Challenge 2025.
+
+---
+
+## Acknowledgments
+
+Special thanks to NASA for providing the datasets and the Space Apps Challenge organizers for hosting this incredible event.
